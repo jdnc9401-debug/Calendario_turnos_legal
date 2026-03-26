@@ -3,6 +3,7 @@ layout: home
 title: "Política de Privacidad"
 
 ---
+{% include_relative privacy.md %}
 <style>
   h1 {
     font-size: 2.4rem;
