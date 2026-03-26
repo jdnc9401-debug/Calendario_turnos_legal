@@ -1,0 +1,22 @@
+theme: minima
+
+collections:
+  es:
+    output: true
+    permalink: /es/:name.html
+  en:
+    output: true
+    permalink: /en/:name.html
+  fr:
+    output: true
+    permalink: /fr/:name.html
+  de:
+    output: true
+    permalink: /de/:name.html
+  pt:
+    output: true
+    permalink: /pt/:name.html
+  it:
+    output: true
+    permalink: /it/:name.html
+ 
