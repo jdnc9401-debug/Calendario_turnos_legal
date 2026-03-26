@@ -1,7 +1,7 @@
 ---
 layout: home
-title: "Calendario_turnos_legal
-"
+title: "Calendario_turnos_legal"
+
 ---
 <style>
   h1 {
