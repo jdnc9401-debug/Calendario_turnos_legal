@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Calendario_turnos_legal"
+title: "Política de Privacidad"
 
 ---
 <style>
