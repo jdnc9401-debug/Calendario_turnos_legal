@@ -66,3 +66,17 @@ title: "Calendario_turnos_legal
 Bienvenido a la sección legal de Calendario de turnos. Si no eres redirigido automáticamente, selecciona tu idioma:
 
 ### 🌐 Selecciona tu idioma:
+- 🇪🇸 [Español](/Calendario_turnos_legal/?lang=es&doc={{ params.doc | default: "privacy" }})
+- 🇬🇧 [English](/Calendario_turnos_legal/?lang=en&doc={{ params.doc | default: "privacy" }})
+- 🇫🇷 [Français](/Calendario_turnos_legal/?lang=fr&doc={{ params.doc | default: "privacy" }})
+- 🇩🇪 [Deutsch](/Calendario_turnos_legal/?lang=de&doc={{ params.doc | default: "privacy" }})
+- 🇵🇹 [Português](/Calendario_turnos_legal/?lang=pt&doc={{ params.doc | default: "privacy" }})
+- 🇮🇹 [Italiano](/Calendario_turnos_legal/?lang=it&doc={{ params.doc | default: "privacy" }})
+- 🇰🇷 [한국어](/Calendario_turnos_legal/?lang=kr&doc={{ params.doc | default: "privacy" }})
+- 🇨🇳 [中文](/Calendario_turnos_legal/?lang=cn&doc={{ params.doc | default: "privacy" }})
+- 🇯🇵 [日本語](/Calendario_turnos_legal/?lang=jp&doc={{ params.doc | default: "privacy" }})
+
+---
+
+📧 **Contacto corporativo:**  
+**valynxsolutions@outlook.com**
